@@ -1,4 +1,4 @@
-# Low-level code generation via LLMs
+# Code generation via LLMs
 
 > Background: With the development of Large Language Models (LLMs), generating code from documentation became possible. These code-writing LLMs can be applied to many fields such as generating robot policy code from human language.
 
