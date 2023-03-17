@@ -13,7 +13,25 @@ LLMs may pick up information from the prompt, e.g., coreference, conversation
 
 OS X & Linux & Windows:
 
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage example
+
+OS X & Linux & Windows:
+
+### Train a model
+
+```bash
+python train.py
+```
+
+### Test with Web Cam
+
+```python
+@TODO
+```
 
 ## Meta
 
