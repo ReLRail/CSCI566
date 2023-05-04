@@ -20,6 +20,14 @@ OS X & Linux & Windows:
 pip install -r requirements.txt
 ```
 
+## File Description
+
+1. Video Classification is at ./vid_cls
+2. Sequence Classification is at ./seq_cls
+3. Inference and profiling is at ./inference
+4. Trained model parameters is at ./model_pts
+5. Game control API is at ./api
+
 ## Usage example
 
 OS X & Linux & Windows:
