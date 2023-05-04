@@ -1,19 +1,40 @@
-# Code generation via LLMs
+# Cast A Spell: a Computer Vision Solution to Detect Spell Casting with Wands
 
-> Background: With the development of Large Language Models (LLMs), generating code from documentation became possible. These code-writing LLMs can be applied to many fields such as generating robot policy code from human language.
+> Background:
 
 ## Intro
 
-Low-level code generation is about generating sequences of code without loops, classes, and functions
-Must include proper include statements and follow the syntax
-Targeted code may use third-party libraries and predefined APIs
-LLMs may pick up information from the prompt, e.g., coreference, conversation
+Taking complex human gestures as input has al-
+ways been difficult. Classical methods are known
+to be complex and involve many components such
+as infrared sensors, motion sensors, or gyroscopes,
+to name a few; we aim to reduce complexity by
+introducing a computer vision-based solution that
+only needs an edge divide and camera.
 
 ## Installation
 
 OS X & Linux & Windows:
 
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage example
+
+OS X & Linux & Windows:
+
+### Train a model
+
+```bash
+python train.py
+```
+
+### Test with Web Cam
+
+```python
+@TODO
+```
 
 ## Meta
 
