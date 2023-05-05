@@ -6,9 +6,8 @@ pytorch, transformers
 
 ## Dependency
 
-label studio backend
-
-vid_class.pickle - the dictionary describing the category of the video
+1. label studio backend
+2. vid_class.pickle - the dictionary describing the category of the video
 
 ## Description
 
